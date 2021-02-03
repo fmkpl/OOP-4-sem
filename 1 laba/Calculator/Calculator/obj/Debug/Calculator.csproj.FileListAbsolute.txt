@@ -1,0 +1,10 @@
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\4 semestr\OOP\1 laba\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
