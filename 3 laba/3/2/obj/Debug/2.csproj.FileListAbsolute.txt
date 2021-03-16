@@ -1,0 +1,31 @@
+D:\OOPLABS\OOP2-master\2\2\bin\Debug\2.exe.config
+D:\OOPLABS\OOP2-master\2\2\bin\Debug\2.exe
+D:\OOPLABS\OOP2-master\2\2\bin\Debug\2.pdb
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\_2.Form1.resources
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\_2.Properties.Resources.resources
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\2.exe
+D:\OOPLABS\OOP2-master\2\2\obj\Debug\2.pdb
+D:\4 semestr\OOP(C#)\2 laba\2\2\bin\Debug\2.exe.config
+D:\4 semestr\OOP(C#)\2 laba\2\2\bin\Debug\2.exe
+D:\4 semestr\OOP(C#)\2 laba\2\2\bin\Debug\2.pdb
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\_2.Form1.resources
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\_2.Properties.Resources.resources
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\2.exe
+D:\4 semestr\OOP(C#)\2 laba\2\2\obj\Debug\2.pdb
+D:\4 semestr\OOP(C#)\3 laba\2\2\bin\Debug\2.exe.config
+D:\4 semestr\OOP(C#)\3 laba\2\2\bin\Debug\2.exe
+D:\4 semestr\OOP(C#)\3 laba\2\2\bin\Debug\2.pdb
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\_2.Form1.resources
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\_2.Properties.Resources.resources
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\_2.Search.resources
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\2.exe
+D:\4 semestr\OOP(C#)\3 laba\2\2\obj\Debug\2.pdb
